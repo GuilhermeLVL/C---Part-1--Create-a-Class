@@ -1428,3 +1428,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-15.33.10:934][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2023.12.10-15.33.11:214][ 70]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
 [2023.12.10-15.33.11:214][ 70]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.12.10-15.34.49:968][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-15.34.49:989][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyTestActor.uasset" SILENT=true
+[2023.12.10-15.34.49:991][744]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-15.34.49:991][744]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-15.34.49:991][744]LogSavePackage: Moving output files for package: /Game/MyMyTestActor
+[2023.12.10-15.34.49:991][744]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor27B300194EC6BC53BF0D518F3E5011E3.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyTestActor.uasset'
+[2023.12.10-15.34.50:002][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms
+[2023.12.10-15.34.50:004][744]AssetCheck: New page: Asset Save: MyMyTestActor
+[2023.12.10-15.34.50:005][744]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyMyTestActor.MyMyTestActor
+[2023.12.10-15.34.51:385][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-15.34.51:405][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyTestActor.uasset" SILENT=true
+[2023.12.10-15.34.51:407][909]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-15.34.51:407][909]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-15.34.51:408][909]LogSavePackage: Moving output files for package: /Game/MyMyTestActor
+[2023.12.10-15.34.51:408][909]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor024C79114CE5AA1201C60AACD0858390.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyTestActor.uasset'
+[2023.12.10-15.34.51:413][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 61 ms)
+[2023.12.10-15.34.51:416][909]AssetCheck: New page: Asset Save: MyMyTestActor
+[2023.12.10-15.34.51:416][909]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyMyTestActor.MyMyTestActor
+[2023.12.10-15.34.53:685][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
