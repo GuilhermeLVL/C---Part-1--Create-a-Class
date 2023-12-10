@@ -15,7 +15,7 @@ public:
 	// Sets default values for this actor's properties
 	AMyTestActor();
 
-	UPROPERTY(EditAnywhere) int32 Value;
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category = "TesteValues") int32 Value;
 
 protected:
 	// Called when the game starts or when spawned

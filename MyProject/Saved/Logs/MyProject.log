@@ -1338,3 +1338,64 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-14.22.33:334][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2023.12.10-14.22.33:405][787]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 6 classes unchanged, 7 functions remapped
 [2023.12.10-14.22.33:405][787]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.12.10-14.34.25:302][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.34.25:349][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.34.25:369][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.35.35:565][184]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.12.10-14.35.35:575][184]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.35.35:575][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-14.35.35:601][184]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.12.10-14.35.37:297][185]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.35.37:400][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.37.17:673][428]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.12.10-14.37.19:961][645]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.12.10-14.37.25:313][177]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.10-14.37.28:657][495]LogLiveCoding: Display:    Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exp
+[2023.12.10-14.37.28:754][498]LogClass: UPackage /Script/MyProject Reload.
+[2023.12.10-14.37.28:754][498]LogClass: UClass MyTestActor Reload.
+[2023.12.10-14.37.28:754][498]LogClass: Could not find existing class MyTestActor in package /Script/MyProject for reload, assuming new or modified class
+[2023.12.10-14.37.28:758][498]Re-instancing MyTestActor after reload.
+[2023.12.10-14.37.28:800][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.10-14.37.28:826][499]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.12.10-14.37.28:826][499]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.12.10-14.38.26:469][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMyTestActor.MyMyTestActor
+[2023.12.10-14.38.26:469][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.38.26:469][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-14.38.27:128][467]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2023.12.10-14.38.27:267][467]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.12.10-14.38.52:859][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.10-14.38.52:860][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2023.12.10-14.38.52:865][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMyTestActor] ([2] browsable assets)...
+[2023.12.10-14.38.52:865][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMyTestActor]
+[2023.12.10-14.38.52:865][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.10-14.38.52:881][103]LogPackageLocalizationCache: Processed 46 localized package path(s) for 2 prioritized culture(s) in 0.007947 seconds
+[2023.12.10-14.38.52:910][103]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-14.38.52:912][103]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-14.38.52:917][103]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto1
+[2023.12.10-14.38.52:917][103]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto19188009A4CF502A302ECE0B0497E1AC0.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto1.uasset'
+[2023.12.10-14.38.52:924][103]LogFileHelpers: Auto-saving content packages took 0.062
+[2023.12.10-14.41.55:059][944]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.10-14.41.58:357][ 65]LogLiveCoding: Display:    Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_2.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_2.exp
+[2023.12.10-14.41.58:694][ 66]LogClass: UPackage /Script/MyProject Reload.
+[2023.12.10-14.41.58:694][ 66]LogClass: UClass MyTestActor Reload.
+[2023.12.10-14.41.58:694][ 66]LogClass: Could not find existing class MyTestActor in package /Script/MyProject for reload, assuming new or modified class
+[2023.12.10-14.41.58:701][ 66]Re-instancing MyTestActor after reload.
+[2023.12.10-14.41.58:786][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.10-14.41.59:212][ 67]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.12.10-14.41.59:213][ 67]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.12.10-14.42.20:111][381]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-14.42.20:111][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-14.42.20:156][381]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.12.10-14.42.20:158][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-14.42.20:158][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-14.48.53:835][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.12.10-14.48.53:836][112]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.076
+[2023.12.10-14.48.53:836][112]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMyTestActor] ([2] browsable assets)...
+[2023.12.10-14.48.53:836][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMyTestActor]
+[2023.12.10-14.48.53:836][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.12.10-14.48.53:841][112]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-14.48.53:841][112]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-14.48.53:842][112]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto2
+[2023.12.10-14.48.53:842][112]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto20E54B864413EDC9E77810D8850BA231C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto2.uasset'
+[2023.12.10-14.48.53:843][112]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.12.10-15.15.59:962][991]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.105 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3452 files in 4725 folders with total size 111 MiB.
