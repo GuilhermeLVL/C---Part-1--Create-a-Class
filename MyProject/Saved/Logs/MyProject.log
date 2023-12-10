@@ -1447,3 +1447,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-15.34.51:416][909]AssetCheck: New page: Asset Save: MyMyTestActor
 [2023.12.10-15.34.51:416][909]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyMyTestActor.MyMyTestActor
 [2023.12.10-15.34.53:685][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.12.10-16.15.59:950][562]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.092 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3452 files in 4725 folders with total size 111 MiB.
