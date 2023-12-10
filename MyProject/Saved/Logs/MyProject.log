@@ -1332,3 +1332,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-14.22.07:208][710]Generating QueryTargets data for editor...
 [2023.12.10-14.22.07:417][710]LogLiveCoding: Display: Starting Live Coding compile.
 [2023.12.10-14.22.07:421][710]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.12.10-14.22.32:710][785]LogLiveCoding: Display:    Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_0.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_0.exp
+[2023.12.10-14.22.33:109][786]LogClass: UPackage /Script/MyProject Reload.
+[2023.12.10-14.22.33:114][786]LogClass: Could not find existing class MyTestActor in package /Script/MyProject for reload, assuming new or modified class
+[2023.12.10-14.22.33:334][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.12.10-14.22.33:405][787]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 6 classes unchanged, 7 functions remapped
+[2023.12.10-14.22.33:405][787]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
