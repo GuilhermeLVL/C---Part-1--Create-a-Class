@@ -1399,3 +1399,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-14.48.53:842][112]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto20E54B864413EDC9E77810D8850BA231C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto2.uasset'
 [2023.12.10-14.48.53:843][112]LogFileHelpers: Auto-saving content packages took 0.006
 [2023.12.10-15.15.59:962][991]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.105 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3452 files in 4725 folders with total size 111 MiB.
+[2023.12.10-15.28.24:447][240]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.10-15.28.26:827][371]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.10-15.28.26:827][371]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.10-15.28.58:306][872]LogSlate: Took 0.007672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.10-15.29.48:448][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.12.10-15.29.48:453][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.056
+[2023.12.10-15.29.48:454][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMyTestActor] ([2] browsable assets)...
+[2023.12.10-15.29.48:454][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMyTestActor]
+[2023.12.10-15.29.48:454][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.12.10-15.29.48:456][965]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-15.29.48:456][965]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.10-15.29.48:456][965]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto3
+[2023.12.10-15.29.48:456][965]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto300563A764CF2930CDD791E843C08BA3A.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto3.uasset'
+[2023.12.10-15.29.48:458][965]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.12.10-15.29.56:862][207]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.10-15.29.58:794][329]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.10-15.29.58:794][329]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.10-15.30.18:303][673]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.10-15.30.20:188][847]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.10-15.30.20:188][847]LogLiveCoding: Error: Live coding failed, please see Live console for more information
