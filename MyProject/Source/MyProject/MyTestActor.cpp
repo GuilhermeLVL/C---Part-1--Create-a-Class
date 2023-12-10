@@ -10,6 +10,7 @@ AMyTestActor::AMyTestActor()
 	PrimaryActorTick.bCanEverTick = true;
 
 	Value = 100;
+	
 
 }
 

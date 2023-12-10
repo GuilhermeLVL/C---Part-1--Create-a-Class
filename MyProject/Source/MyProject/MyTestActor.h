@@ -16,6 +16,7 @@ public:
 	AMyTestActor();
 
 	UPROPERTY(BlueprintReadOnly,VisibleAnywhere,Transient, Category = "TesteValues") int32 Value;
+	UFUNCTION(BlueprintCallable,
 
 protected:
 	// Called when the game starts or when spawned
