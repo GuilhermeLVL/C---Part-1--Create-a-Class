@@ -21,6 +21,11 @@ void EmptyLinkFunctionForGeneratedCodeMyTestActor() {}
 		*(int32*)Z_Param__Result=P_THIS->CalculateValue();
 		P_NATIVE_END;
 	}
+	static FName NAME_AMyTestActor_OnValueCalculate = FName(TEXT("OnValueCalculate"));
+	void AMyTestActor::OnValueCalculate()
+	{
+		ProcessEvent(FindFunctionChecked(NAME_AMyTestActor_OnValueCalculate),NULL);
+	}
 	void AMyTestActor::StaticRegisterNativesAMyTestActor()
 	{
 		UClass* Class = AMyTestActor::StaticClass();
@@ -48,7 +53,7 @@ void EmptyLinkFunctionForGeneratedCodeMyTestActor() {}
 	};
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AMyTestActor_CalculateValue_Statics::Function_MetaDataParams[] = {
-		{ "Category", "TextFunctions" },
+		{ "Category", "TestFunctions" },
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "//Declarando funcao que calcula os valores das variaveis acima\n" },
 #endif
@@ -67,6 +72,29 @@ void EmptyLinkFunctionForGeneratedCodeMyTestActor() {}
 		if (!ReturnFunction)
 		{
 			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_AMyTestActor_CalculateValue_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AMyTestActor_OnValueCalculate_Statics
+	{
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AMyTestActor_OnValueCalculate_Statics::Function_MetaDataParams[] = {
+		{ "Category", "TestFunctions" },
+		{ "ModuleRelativePath", "MyTestActor.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_AMyTestActor_OnValueCalculate_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AMyTestActor, nullptr, "OnValueCalculate", nullptr, nullptr, nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_AMyTestActor_OnValueCalculate_Statics::Function_MetaDataParams), Z_Construct_UFunction_AMyTestActor_OnValueCalculate_Statics::Function_MetaDataParams) };
+	UFunction* Z_Construct_UFunction_AMyTestActor_OnValueCalculate()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_AMyTestActor_OnValueCalculate_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -100,7 +128,8 @@ void EmptyLinkFunctionForGeneratedCodeMyTestActor() {}
 	};
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AMyTestActor_Statics::DependentSingletons) < 16);
 	const FClassFunctionLinkInfo Z_Construct_UClass_AMyTestActor_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_AMyTestActor_CalculateValue, "CalculateValue" }, // 1130470519
+		{ &Z_Construct_UFunction_AMyTestActor_CalculateValue, "CalculateValue" }, // 2347232712
+		{ &Z_Construct_UFunction_AMyTestActor_OnValueCalculate, "OnValueCalculate" }, // 164913738
 	};
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AMyTestActor_Statics::FuncInfo) < 2048);
 #if WITH_METADATA
@@ -171,9 +200,9 @@ void EmptyLinkFunctionForGeneratedCodeMyTestActor() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MyProject_Source_MyProject_MyTestActor_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AMyTestActor, AMyTestActor::StaticClass, TEXT("AMyTestActor"), &Z_Registration_Info_UClass_AMyTestActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyTestActor), 2662862023U) },
+		{ Z_Construct_UClass_AMyTestActor, AMyTestActor::StaticClass, TEXT("AMyTestActor"), &Z_Registration_Info_UClass_AMyTestActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyTestActor), 1549738804U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MyProject_Source_MyProject_MyTestActor_h_961514792(TEXT("/Script/MyProject"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_MyProject_Source_MyProject_MyTestActor_h_366389436(TEXT("/Script/MyProject"),
 		Z_CompiledInDeferFile_FID_MyProject_Source_MyProject_MyTestActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_MyProject_Source_MyProject_MyTestActor_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

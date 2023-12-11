@@ -21,7 +21,8 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "TesteValues") int32 ValueB;
 
 	//Declarando funcao que calcula os valores das variaveis acima
-	UFUNCTION(BlueprintCallable, Category = "TextFunctions") int32 CalculateValue();
+	UFUNCTION(BlueprintCallable, Category = "TestFunctions") int32 CalculateValue();
+	UFUNCTION(BlueprintImplementableEvent, Category = "TestFunctions") void OnValueCalculate();
 
 protected:
 	// Called when the game starts or when spawned

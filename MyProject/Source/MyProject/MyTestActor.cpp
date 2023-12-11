@@ -23,6 +23,10 @@ int32 AMyTestActor::CalculateValue() {
 	return ValueA + ValueB;
 }
 
+void AMyTestActor::OnValueCalculate() {
+
+}
+
 
 // Called when the game starts or when spawned
 void AMyTestActor::BeginPlay()

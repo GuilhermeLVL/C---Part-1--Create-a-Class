@@ -1827,3 +1827,76 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.11-22.31.38:990][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto2
 [2023.12.11-22.31.38:991][698]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto281660AFB4A7E879B460D018C64FCFABE.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto2.uasset'
 [2023.12.11-22.31.38:992][698]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.12.11-22.35.22:837][745]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-22.35.24:860][984]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.11-22.35.24:861][984]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2023.12.11-22.39.09:217][793]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-22.39.13:745][328]LogLiveCoding: Display: MyTestActor.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyTestActor::OnValueCalculate(void)" (?OnValueCalculate@AMyTestActor@@QEAAXXZ) já definida no MyTestActor.cpp.obj
+   Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exp
+C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
+[2023.12.11-22.39.13:749][329]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.11-22.39.13:749][329]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.11-22.41.39:511][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.12.11-22.41.39:516][150]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA_Auto3
+[2023.12.11-22.41.39:516][150]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Y1H5E6BWFUTNB7826TBXRA_Auto3E1928F984AEDD31D7A53E489DDF7437C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA_Auto3.uasset'
+[2023.12.11-22.41.39:517][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2023.12.11-22.41.39:517][150]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2023.12.11-22.41.39:518][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMyTestActor] ([2] browsable assets)...
+[2023.12.11-22.41.39:518][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMyTestActor]
+[2023.12.11-22.41.39:518][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.12.11-22.41.39:521][150]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.41.39:521][150]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.41.39:522][150]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto3
+[2023.12.11-22.41.39:523][150]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto3C5E7CEEF49A748CC328D6D9EC08FEBDB.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto3.uasset'
+[2023.12.11-22.41.39:524][150]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.12.11-22.43.49:564][684]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-22.43.53:514][128]LogLiveCoding: Display: MyTestActor.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyTestActor::OnValueCalculate(void)" (?OnValueCalculate@AMyTestActor@@QEAAXXZ) já definida no MyTestActor.cpp.obj
+   Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exp
+C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
+[2023.12.11-22.43.53:516][129]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.11-22.43.53:516][129]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.11-22.46.50:299][520]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-22.46.54:416][983]LogLiveCoding: Display: MyTestActor.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyTestActor::OnValueCalculate(void)" (?OnValueCalculate@AMyTestActor@@QEAAXXZ) já definida no MyTestActor.cpp.obj
+   Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exp
+C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
+[2023.12.11-22.46.54:423][984]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.11-22.46.54:424][984]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.11-22.53.38:387][120]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-22.53.40:064][313]LogLiveCoding: Display: MyTestActor.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyTestActor::OnValueCalculate(void)" (?OnValueCalculate@AMyTestActor@@QEAAXXZ) já definida no MyTestActor.cpp.obj
+   Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exp
+C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
+[2023.12.11-22.53.40:346][314]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.11-22.53.40:346][314]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.11-22.54.51:657][527]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3452 files in 4725 folders with total size 111 MiB.
+[2023.12.11-22.55.31:415][271]BlueprintLog: New page: Compile MyMyTestActor
+[2023.12.11-22.55.31:446][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.11-22.56.36:669][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.11-22.56.36:673][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA_Auto4
+[2023.12.11-22.56.36:673][443]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Y1H5E6BWFUTNB7826TBXRA_Auto473368F8D4C57490045992AA54DCD9977.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA_Auto4.uasset'
+[2023.12.11-22.56.36:675][443]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.12.11-22.56.36:675][443]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2023.12.11-22.56.36:676][443]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMyTestActor] ([2] browsable assets)...
+[2023.12.11-22.56.36:676][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMyTestActor]
+[2023.12.11-22.56.36:676][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.12.11-22.56.36:678][443]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.56.36:678][443]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.56.36:679][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto4
+[2023.12.11-22.56.36:679][443]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto418B7991A47A1873548EA34A1B9C9DF27.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto4.uasset'
+[2023.12.11-22.56.36:680][443]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.12.11-23.00.46:751][435]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-23.00.49:780][790]LogLiveCoding: Display: MyTestActor.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyTestActor::OnValueCalculate(void)" (?OnValueCalculate@AMyTestActor@@QEAAXXZ) já definida no MyTestActor.cpp.obj
+   Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exp
+C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
+[2023.12.11-23.00.49:784][791]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.11-23.00.49:784][791]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.11-23.01.44:786][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-23.01.44:842][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.11-23.01.44:847][345]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.12.11-23.01.44:848][345]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/FirstPersonMapE01E36D04EE86043362A6CBCF7830221.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2023.12.11-23.01.44:867][345]LogFileHelpers: Saving map 'FirstPersonMap' took 0.062
+[2023.12.11-23.01.44:869][345]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA
+[2023.12.11-23.01.44:869][345]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Y1H5E6BWFUTNB7826TBXRA1E21CB3D444AB8BE2C781EB8F434E318.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA.uasset'
+[2023.12.11-23.01.44:879][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms
+[2023.12.11-23.01.44:882][345]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.11-23.01.44:883][345]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.12.11-23.01.44:884][345]LogContentValidation: Display: Validating /Game/MyMyTestActor.MyMyTestActor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.MyMyTestActor_C_UAID_00E269643BCBE0C401_1498383559

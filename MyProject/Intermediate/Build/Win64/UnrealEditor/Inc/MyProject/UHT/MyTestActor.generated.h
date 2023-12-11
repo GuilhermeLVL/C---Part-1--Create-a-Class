@@ -23,6 +23,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 #define FID_MyProject_Source_MyProject_MyTestActor_h_12_ACCESSORS
+#define FID_MyProject_Source_MyProject_MyTestActor_h_12_CALLBACK_WRAPPERS
 #define FID_MyProject_Source_MyProject_MyTestActor_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMyTestActor(); \
@@ -53,6 +54,7 @@ public: \
 	FID_MyProject_Source_MyProject_MyTestActor_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
 	FID_MyProject_Source_MyProject_MyTestActor_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_MyProject_Source_MyProject_MyTestActor_h_12_ACCESSORS \
+	FID_MyProject_Source_MyProject_MyTestActor_h_12_CALLBACK_WRAPPERS \
 	FID_MyProject_Source_MyProject_MyTestActor_h_12_INCLASS_NO_PURE_DECLS \
 	FID_MyProject_Source_MyProject_MyTestActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
