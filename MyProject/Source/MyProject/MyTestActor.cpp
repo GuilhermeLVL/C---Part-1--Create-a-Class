@@ -1,18 +1,28 @@
-// Fill out your copyright notice in the Description page of Project Settings.
 
+//Incluindo um trecho de codigo
 
 #include "MyTestActor.h"
 
-// Sets default values
+// "AMyTestActor:: " Para apontar onde estao os valores que serao manipulados
+
 AMyTestActor::AMyTestActor()
 {
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	Value = 100;
-	
+	//Passando valor para a variavel declarada em MyTestActor
+	ValueA = 0;
+	ValueB = 0;
 
 }
+
+//Chamando a funcao declarada em "MyTestActor"
+
+
+int32 AMyTestActor::CalculateValue() {
+
+	return ValueA + ValueB;
+}
+
 
 // Called when the game starts or when spawned
 void AMyTestActor::BeginPlay()

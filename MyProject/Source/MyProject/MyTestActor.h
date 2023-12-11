@@ -15,8 +15,13 @@ public:
 	// Sets default values for this actor's properties
 	AMyTestActor();
 
-	UPROPERTY(BlueprintReadOnly,VisibleAnywhere,Transient, Category = "TesteValues") int32 Value;
-	UFUNCTION(BlueprintCallable,
+
+	//Definindo variaveis que podem ser visualizadas e manipuladas pelo BluePrint "BlueprintReadWrite"
+	UPROPERTY(BlueprintReadOnly, BlueprintReadWrite , Category = "TesteValues") int32 ValueA;
+	UPROPERTY(BlueprintReadOnly, BlueprintReadWrite, Category = "TesteValues") int32 ValueB;
+
+	//Declarando funcao que calcula os valores das variaveis acima
+	UFUNCTION(BlueprintCallable, Category = "TextFunctions") int32 CalculateValue();
 
 protected:
 	// Called when the game starts or when spawned
