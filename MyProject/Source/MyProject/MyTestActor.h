@@ -17,8 +17,8 @@ public:
 
 
 	//Definindo variaveis que podem ser visualizadas e manipuladas pelo BluePrint "BlueprintReadWrite"
-	UPROPERTY(BlueprintReadOnly, BlueprintReadWrite , Category = "TesteValues") int32 ValueA;
-	UPROPERTY(BlueprintReadOnly, BlueprintReadWrite, Category = "TesteValues") int32 ValueB;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite , Category = "TesteValues") int32 ValueA;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "TesteValues") int32 ValueB;
 
 	//Declarando funcao que calcula os valores das variaveis acima
 	UFUNCTION(BlueprintCallable, Category = "TextFunctions") int32 CalculateValue();

@@ -1678,3 +1678,152 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.11-22.14.47:749][ 89]LogLiveCoding: Display: Starting Live Coding compile.
 [2023.12.11-22.14.49:875][331]Display: Reload/Re-instancing Complete: No object changes detected
 [2023.12.11-22.14.49:875][331]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.11-22.17.07:002][350]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-22.17.21:443][310]LogLiveCoding: Display:    Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_0.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_0.exp
+[2023.12.11-22.17.21:738][311]LogClass: UPackage /Script/MyProject Reload.
+[2023.12.11-22.17.21:745][311]LogClass: Could not find existing class MyTestActor in package /Script/MyProject for reload, assuming new or modified class
+[2023.12.11-22.17.21:745][311]LogClass: Function CalculateValue is new or belongs to a modified class.
+[2023.12.11-22.17.21:983][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.12.11-22.17.22:066][312]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 6 classes unchanged, 7 functions remapped
+[2023.12.11-22.17.22:066][312]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.12.11-22.18.20:556][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMyTestActor.MyMyTestActor
+[2023.12.11-22.18.20:565][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.18.20:565][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-22.18.20:599][219]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.12.11-22.18.25:025][529]LogSlate: Window 'MyMyTestActor' being destroyed
+[2023.12.11-22.18.34:681][564]BlueprintLog: New page: Compile MyMyTestActor
+[2023.12.11-22.18.34:724][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.11-22.18.34:728][564]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for loading '/Game/MyMyTestActor.MyMyTestActor_C', using '/Script/Engine.Actor'
+[2023.12.11-22.18.37:222][854]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-22.18.37:222][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-22.18.37:267][854]LogViewport: Scene viewport resized to 1220x584, mode Windowed.
+[2023.12.11-22.18.41:653][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.18.41:691][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.18.41:711][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.18.43:745][440]LogViewport: Scene viewport resized to 536x375, mode Windowed.
+[2023.12.11-22.18.49:361][440]LogViewport: Scene viewport resized to 811x547, mode Windowed.
+[2023.12.11-22.19.12:720][356]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMyTestActor.MyMyTestActor
+[2023.12.11-22.19.12:720][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.19.12:720][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-22.19.22:416][687]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-22.19.22:417][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-22.19.22:427][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMyTestActor.MyMyTestActor
+[2023.12.11-22.19.22:428][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.19.22:428][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-22.19.23:149][687]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.11-22.19.28:098][262]LogSlate: Took 0.005978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.11-22.21.34:064][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.11-22.21.34:068][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.12.11-22.21.34:073][661]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMyTestActor] ([2] browsable assets)...
+[2023.12.11-22.21.34:073][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMyTestActor]
+[2023.12.11-22.21.34:073][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.11-22.21.34:088][661]LogPackageLocalizationCache: Processed 46 localized package path(s) for 2 prioritized culture(s) in 0.007978 seconds
+[2023.12.11-22.21.34:104][661]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.21.34:104][661]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.21.34:109][661]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto1
+[2023.12.11-22.21.34:110][661]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto17D53CCB441EFACC3A18D6DBA4CA88912.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto1.uasset'
+[2023.12.11-22.21.34:116][661]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.12.11-22.22.32:378][836]BlueprintLog: New page: Compile MyMyTestActor
+[2023.12.11-22.22.32:405][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.11-22.22.36:053][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMyTestActor.MyMyTestActor_C
+[2023.12.11-22.22.36:055][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMyTestActor.MyMyTestActor_C
+[2023.12.11-22.22.36:058][125]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMyTestActor.MyMyTestActor as actor: MyMyTestActor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.MyMyTestActor_C_0
+[2023.12.11-22.22.36:061][125]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMyTestActor.MyMyTestActor as actor: MyMyTestActor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.MyMyTestActor_C_0
+[2023.12.11-22.22.36:067][125]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.11-22.22.36:748][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMyTestActor.MyMyTestActor_C
+[2023.12.11-22.22.36:748][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMyTestActor.MyMyTestActor_C
+[2023.12.11-22.22.36:753][205]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMyTestActor.MyMyTestActor as actor: MyMyTestActor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.MyMyTestActor_C_UAID_00E269643BCBE0C401_1498383559
+[2023.12.11-22.22.36:754][205]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMyTestActor.MyMyTestActor as actor: MyMyTestActor_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.MyMyTestActor_C_UAID_00E269643BCBE0C401_1498383559
+[2023.12.11-22.22.38:121][357]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.11-22.22.38:130][357]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.11-22.22.38:131][357]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.12.11-22.22.38:139][357]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8 ms
+[2023.12.11-22.22.38:160][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.11-22.22.38:180][357]PIE: New page: PIE session: FirstPersonMap (11 de dez de 2023 16:22:38)
+[2023.12.11-22.22.38:189][357]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.11-22.22.38:193][357]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.12.11-22.22.38:198][357]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.12.11-22.22.38:209][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011057s)
+[2023.12.11-22.22.38:209][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.011142s)
+[2023.12.11-22.22.38:223][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.11-22.22.38:231][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.22.38:232][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-22.22.38:232][357]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.12.11-22.22.38:234][357]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.11-22.22.38:234][357]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.11-22.22.38:234][357]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.11-22.22.38:236][357]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.11-22.22.38:238][357]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.12.11-22.22.38:238][357]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 481 ms)
+[2023.12.11-22.22.38:239][357]LogPlayLevel: PIE: World Init took: (0.010076s)
+[2023.12.11-22.22.38:240][357]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.11-22.22.38:240][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.11-22.22.38:240][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.11-22.22.38:240][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.11-22.22.38:240][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.11-22.22.38:240][357]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.11-22.22.38:240][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.11-22.22.38:240][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.11-22.22.38:240][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.11-22.22.38:241][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.11-22.22.38:241][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.11-22.22.38:241][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.11-22.22.38:242][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.11-22.22.38:264][357]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2023.12.11-22.22.38:265][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.11-22.22.38:265][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.11-22.22.38:265][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.11-22.22.38:266][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.11-22.22.38:266][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2023.12.11-22.22.38:267][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.11-22.22.38:267][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.11-22.22.38:267][357]LogInit: FAudioDevice initialized with ID 2.
+[2023.12.11-22.22.38:267][357]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.12.11-22.22.38:267][357]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.11-22.22.38:292][357]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.11-22.22.38:295][357]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.12.11-19.22.38
+[2023.12.11-22.22.38:299][357]LogWorld: Bringing up level for play took: 0.006658
+[2023.12.11-22.22.38:303][357]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.12.11-22.22.38:420][357]LogBlueprintUserMessages: [MyMyTestActor_C_UAID_00E269643BCBE0C401_1498383559] 45
+[2023.12.11-22.22.38:436][357]LogTemp: Warning: BeginPlay
+[2023.12.11-22.22.38:438][357]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2023.12.11-22.22.38:440][357]PIE: Server logged in
+[2023.12.11-22.22.38:443][357]PIE: Play in editor total start time 0,317 seconds.
+[2023.12.11-22.22.42:552][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-22.22.42:552][825]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.12.11-22.22.42:554][825]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-22.22.42:556][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-22.22.42:556][825]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.12.11-22.22.42:567][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.11-22.22.42:572][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-22.22.42:585][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.11-22.22.42:586][825]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.11-22.22.42:586][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.11-22.22.42:590][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.11-22.22.42:595][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-22.22.42:605][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.11-22.22.42:649][826]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.12.11-22.26.17:364][865]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.11-22.26.20:565][229]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap
+[2023.12.11-22.26.20:565][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-22.26.20:565][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-22.26.49:022][ 61]LogSlate: Window 'FirstPersonMap' being destroyed
+[2023.12.11-22.27.14:209][ 27]LogEditorTransaction: Undo Add Node
+[2023.12.11-22.31.38:964][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.11-22.31.38:977][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto2
+[2023.12.11-22.31.38:977][698]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/FirstPersonMap_Auto2579DBE3548C0AE3357F0E3AEE6556274.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto2.umap'
+[2023.12.11-22.31.38:979][698]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto2.umap is in the /Temp path, will not scan.
+[2023.12.11-22.31.38:979][698]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto2 is in the /Temp path, will not scan.
+[2023.12.11-22.31.38:979][698]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto2 is in the /Temp path, will not scan.
+[2023.12.11-22.31.38:982][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA_Auto2
+[2023.12.11-22.31.38:982][698]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Y1H5E6BWFUTNB7826TBXRA_Auto2BE5EB5494C05F056CE43D6AA2CECCDAB.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA_Auto2.uasset'
+[2023.12.11-22.31.38:986][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.044
+[2023.12.11-22.31.38:986][698]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.12.11-22.31.38:987][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMyTestActor] ([2] browsable assets)...
+[2023.12.11-22.31.38:987][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMyTestActor]
+[2023.12.11-22.31.38:987][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMyTestActor" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.12.11-22.31.38:990][698]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.31.38:990][698]LogWorldPartition: Can't find class descriptor '/Game/MyMyTestActor.MyMyTestActor_C' for saving '/Game/MyMyTestActor.MyMyTestActor_C'
+[2023.12.11-22.31.38:990][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMyTestActor_Auto2
+[2023.12.11-22.31.38:991][698]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/MyMyTestActor_Auto281660AFB4A7E879B460D018C64FCFABE.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Saved/Autosaves/Game/MyMyTestActor_Auto2.uasset'
+[2023.12.11-22.31.38:992][698]LogFileHelpers: Auto-saving content packages took 0.006
