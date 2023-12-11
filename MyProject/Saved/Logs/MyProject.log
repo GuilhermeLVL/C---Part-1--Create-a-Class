@@ -1675,3 +1675,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.11-21.53.24:332][ 19]LogViewport: Scene viewport resized to 811x547, mode Windowed.
 [2023.12.11-21.54.50:666][514]LogVSAccessor: Couldn't get item operations. Visual Studio may still be initializing.
 [2023.12.11-21.54.50:757][515]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.182 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3452 files in 4725 folders with total size 111 MiB.
+[2023.12.11-22.14.47:749][ 89]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.11-22.14.49:875][331]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.11-22.14.49:875][331]LogLiveCoding: Error: Live coding failed, please see Live console for more information
