@@ -6,10 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyTestActor.uasset",
 				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/79/Y1H5E6BWFUTNB7826TBXRA.uasset",
-				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyProjectProjectile.uasset"
+				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyProjectProjectile.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK_Mat.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_Mat.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/MyProject/Content/MyMyTestActor.uasset"
 			]
 		}
 	]
