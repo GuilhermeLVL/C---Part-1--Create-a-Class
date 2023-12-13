@@ -1518,3 +1518,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.13-00.33.01:751][  1]LogAssetRegistry: AssetRegistryGather time 12.0521s: AssetDataDiscovery 0.0280s, AssetDataGather 11.9739s, StoreResults 0.0501s.
 [2023.12.13-00.33.01:769][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.12.13-00.33.01:784][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2023.12.13-00.34.53:822][829]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.098 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3646 files in 4921 folders with total size 112 MiB.
+[2023.12.13-00.36.51:413][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
