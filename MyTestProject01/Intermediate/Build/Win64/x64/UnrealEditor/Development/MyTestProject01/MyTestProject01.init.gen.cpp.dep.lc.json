@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\mytestproject01\\intermediate\\build\\win64\\unrealeditor\\inc\\mytestproject01\\uht\\mytestproject01.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\mytestproject01\\intermediate\\build\\win64\\x64\\mytestproject01editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\mytestproject01\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mytestproject01\\definitions.mytestproject01.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

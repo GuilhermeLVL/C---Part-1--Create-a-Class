@@ -11,6 +11,8 @@
     <None Include="..\..\Source\MyTestProject01Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +34,12 @@
     <Filter Include="Source\MyTestProject01">
       <UniqueIdentifier>{30F470D9-8818-3E6A-ABEC-6AF92528ADD7}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\MyTestProject01\MyTestActor.cpp">
+      <Filter>Source\MyTestProject01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTestProject01\MyTestActor.h">
+      <Filter>Source\MyTestProject01</Filter>
+    </ClInclude>
     <None Include="..\..\Source\MyTestProject01\MyTestProject01.Build.cs">
       <Filter>Source\MyTestProject01</Filter>
     </None>
