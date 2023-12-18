@@ -7,6 +7,7 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\MyTestProject01Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestActor.gen.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestProject01.init.gen.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestProject01Character.gen.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestProject01GameMode.gen.cpp.obj"
@@ -14,6 +15,7 @@
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestProject01Projectile.gen.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\TP_PickUpComponent.gen.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestActor.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestProject01.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestProject01Character.cpp.obj"
 "C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\MyTestProject01\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTestProject01\MyTestProject01GameMode.cpp.obj"

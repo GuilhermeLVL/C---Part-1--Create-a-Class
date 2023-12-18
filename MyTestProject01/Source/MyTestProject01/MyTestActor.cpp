@@ -8,9 +8,15 @@ AMyTestActor::AMyTestActor()
 {
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+	
+	ValueA = 0;
+	ValueB = 0;
+	
+}
 
-	Value = 100;
-
+int32  AMyTestActor::CalculateValue()
+{
+	return ValueA + ValueB;
 }
 
 // Called when the game starts or when spawned
