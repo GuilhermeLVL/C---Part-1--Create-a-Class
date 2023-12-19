@@ -1662,3 +1662,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.19-00.17.13:074][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
 [2023.12.19-00.17.13:467][739]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 2 classes unchanged
 [2023.12.19-00.17.13:467][739]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.12.19-00.19.16:880][ 69]LogSlate: Took 0.006152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.19-00.20.52:620][518]BlueprintLog: New page: Compile CuboGiratorio
+[2023.12.19-00.20.52:701][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.19-00.20.52:713][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-00.20.52:736][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Video/CuboGiratorio" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Content/Video/CuboGiratorio.uasset" SILENT=true
+[2023.12.19-00.20.52:741][518]LogSavePackage: Moving output files for package: /Game/Video/CuboGiratorio
+[2023.12.19-00.20.52:741][518]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Saved/CuboGiratorioCA0AEED9449891E98FD97892FBB35424.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Content/Video/CuboGiratorio.uasset'
+[2023.12.19-00.20.52:745][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 999 ms)
+[2023.12.19-00.20.52:748][518]AssetCheck: New page: Asset Save: CuboGiratorio
+[2023.12.19-00.20.52:748][518]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Video/CuboGiratorio.CuboGiratorio
+[2023.12.19-00.26.02:994][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.19-00.26.03:002][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/M5/2044CSZC9J91JI0W8SCZSK_Auto2
+[2023.12.19-00.26.03:002][971]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Saved/2044CSZC9J91JI0W8SCZSK_Auto23E083D0F4BC63C828CB5AFA65DA809DB.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/M5/2044CSZC9J91JI0W8SCZSK_Auto2.uasset'
+[2023.12.19-00.26.03:004][971]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.065
+[2023.12.19-00.26.03:004][971]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
