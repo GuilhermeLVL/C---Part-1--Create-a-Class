@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VideoProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\VideoProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\VideoProject.init.gen.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\VideoProjectCharacter.gen.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\VideoProjectGameMode.gen.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\VideoProject.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\VideoProjectCharacter.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\VideoProjectGameMode.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\Default.rc2.res"
+/OUT:"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\VideoProject\UnrealEditor-VideoProject.lib"

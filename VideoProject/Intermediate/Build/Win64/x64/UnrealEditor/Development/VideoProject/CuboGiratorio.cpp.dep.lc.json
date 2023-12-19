@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\source\\videoproject\\cubogiratorio.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\intermediate\\build\\win64\\x64\\videoprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videoproject\\definitions.videoproject.h",
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\source\\videoproject\\cubogiratorio.h",
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\intermediate\\build\\win64\\unrealeditor\\inc\\videoproject\\uht\\cubogiratorio.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

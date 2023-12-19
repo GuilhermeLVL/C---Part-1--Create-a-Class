@@ -11,6 +11,8 @@
     <None Include="..\..\Source\VideoProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +34,12 @@
     <Filter Include="Source\VideoProject">
       <UniqueIdentifier>{866FEE15-EA61-30B9-AE81-4A9BF54A6356}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\VideoProject\CuboGiratorio.cpp">
+      <Filter>Source\VideoProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VideoProject\CuboGiratorio.h">
+      <Filter>Source\VideoProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\VideoProject\VideoProject.Build.cs">
       <Filter>Source\VideoProject</Filter>
     </None>

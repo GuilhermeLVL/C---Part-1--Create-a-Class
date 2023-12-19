@@ -1523,3 +1523,142 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.18-23.50.14:280][436]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3808 files in 5075 folders with total size 112 MiB.
 [2023.12.19-00.08.37:482][797]LogViewport: Scene viewport resized to 979x580, mode Windowed.
 [2023.12.19-00.08.53:260][145]LogViewport: Scene viewport resized to 979x844, mode Windowed.
+[2023.12.19-00.09.21:858][ 15]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.19-00.09.21:866][ 15]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.19-00.09.21:875][ 16]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.19-00.09.31:132][610]LogContentBrowser: Attempting asset rename: NewFolder -> Video
+[2023.12.19-00.09.31:134][610]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.19-00.09.41:751][798]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.12.19-00.09.51:438][ 97]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.19-00.09.51:445][ 97]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.19-00.09.51:450][ 97]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.19-00.09.51:469][ 99]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.19-00.10.00:872][733]LogContentBrowser: Attempting asset rename: NewBlueprint -> CuboGiratorio
+[2023.12.19-00.10.00:914][733]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.19-00.10.06:229][966]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Video/CuboGiratorio.CuboGiratorio
+[2023.12.19-00.10.06:238][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-00.10.06:238][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-00.10.06:269][966]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.12.19-00.10.07:447][966]LogViewport: Scene viewport resized to 749x819, mode Windowed.
+[2023.12.19-00.10.11:595][245]LogSlate: Took 0.001668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.19-00.10.13:870][245]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2023.12.19-00.10.23:617][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-00.10.23:678][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-00.10.23:702][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-00.11.16:039][862]LogSlate: Took 0.002381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.19-00.15.03:843][629]BlueprintLog: New page: Compile CuboGiratorio
+[2023.12.19-00.15.03:899][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.19-00.15.03:918][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-00.15.03:946][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Video/CuboGiratorio" FILE="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Content/Video/CuboGiratorio.uasset" SILENT=true
+[2023.12.19-00.15.03:972][629]LogSavePackage: Moving output files for package: /Game/Video/CuboGiratorio
+[2023.12.19-00.15.03:972][629]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Saved/CuboGiratorioF7D122D948F1BD0B2DCE5BB5082118F1.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Content/Video/CuboGiratorio.uasset'
+[2023.12.19-00.15.03:980][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 967 ms)
+[2023.12.19-00.15.03:986][629]AssetCheck: New page: Asset Save: CuboGiratorio
+[2023.12.19-00.15.03:986][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Video/CuboGiratorio.CuboGiratorio
+[2023.12.19-00.15.09:662][895]LogSlate: Window 'CuboGiratorio' being destroyed
+[2023.12.19-00.15.17:298][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Video/CuboGiratorio.CuboGiratorio_C
+[2023.12.19-00.15.17:300][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Video/CuboGiratorio.CuboGiratorio_C
+[2023.12.19-00.15.17:304][598]LogActorFactory: Actor Factory spawned Blueprint /Game/Video/CuboGiratorio.CuboGiratorio as actor: CuboGiratorio_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CuboGiratorio_C_0
+[2023.12.19-00.15.17:306][598]LogActorFactory: Actor Factory spawned Blueprint /Game/Video/CuboGiratorio.CuboGiratorio as actor: CuboGiratorio_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CuboGiratorio_C_0
+[2023.12.19-00.15.17:312][598]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.19-00.15.18:559][743]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Video/CuboGiratorio.CuboGiratorio_C
+[2023.12.19-00.15.18:559][743]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Video/CuboGiratorio.CuboGiratorio_C
+[2023.12.19-00.15.18:562][743]LogActorFactory: Actor Factory spawned Blueprint /Game/Video/CuboGiratorio.CuboGiratorio as actor: CuboGiratorio_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CuboGiratorio_C_UAID_00E269643BCB19C701_2101095703
+[2023.12.19-00.15.18:563][743]LogActorFactory: Actor Factory spawned Blueprint /Game/Video/CuboGiratorio.CuboGiratorio as actor: CuboGiratorio_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CuboGiratorio_C_UAID_00E269643BCB19C701_2101095703
+[2023.12.19-00.15.24:835][983]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.19-00.15.24:847][983]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.19-00.15.24:848][983]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.19-00.15.24:858][983]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 10 ms
+[2023.12.19-00.15.24:876][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-00.15.24:896][983]PIE: New page: PIE session: ThirdPersonMap (18 de dez de 2023 18:15:24)
+[2023.12.19-00.15.24:903][983]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2023.12.19-00.15.24:906][983]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.12.19-00.15.24:966][984]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.19-00.15.24:976][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009737s)
+[2023.12.19-00.15.24:976][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009812s)
+[2023.12.19-00.15.24:989][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.19-00.15.24:996][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-00.15.24:997][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-00.15.24:998][984]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.19-00.15.25:000][984]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.19-00.15.25:000][984]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.19-00.15.25:000][984]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.19-00.15.25:002][984]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.19-00.15.25:005][984]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.19-00.15.25:005][984]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 69 ms)
+[2023.12.19-00.15.25:005][984]LogPlayLevel: PIE: World Init took: (0.010199s)
+[2023.12.19-00.15.25:009][984]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.19-00.15.25:009][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-00.15.25:009][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-00.15.25:009][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-00.15.25:009][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-00.15.25:009][984]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-00.15.25:009][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.19-00.15.25:009][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-00.15.25:009][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-00.15.25:009][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-00.15.25:009][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-00.15.25:009][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-00.15.25:011][984]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-00.15.25:031][984]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2023.12.19-00.15.25:031][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-00.15.25:031][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-00.15.25:031][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-00.15.25:032][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.19-00.15.25:032][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2023.12.19-00.15.25:033][984]LogInit: FAudioDevice initialized with ID 2.
+[2023.12.19-00.15.25:033][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.19-00.15.25:033][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.19-00.15.25:033][984]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.12.19-00.15.25:033][984]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.19-00.15.25:055][984]LogLoad: Game class is 'VideoProjectGameMode'
+[2023.12.19-00.15.25:056][984]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.18-21.15.25
+[2023.12.19-00.15.25:061][984]LogWorld: Bringing up level for play took: 0.005950
+[2023.12.19-00.15.25:326][984]PIE: Server logged in
+[2023.12.19-00.15.25:328][984]PIE: Play in editor total start time 0,484 seconds.
+[2023.12.19-00.15.37:608][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-00.15.37:608][429]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.19-00.15.37:610][429]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-00.15.37:611][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-00.15.37:611][429]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.19-00.15.37:624][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-00.15.37:627][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-00.15.37:641][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.19-00.15.37:642][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.19-00.15.37:642][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.19-00.15.37:644][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.19-00.15.37:647][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-00.15.37:654][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.19-00.15.37:716][430]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.12.19-00.16.02:221][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.19-00.16.02:229][801]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/M5/2044CSZC9J91JI0W8SCZSK_Auto1
+[2023.12.19-00.16.02:229][801]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Saved/2044CSZC9J91JI0W8SCZSK_Auto1EFFE9807444F71475D61E584FEF94CB1.tmp' to 'C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/M5/2044CSZC9J91JI0W8SCZSK_Auto1.uasset'
+[2023.12.19-00.16.02:234][801]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2023.12.19-00.16.02:234][801]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2023.12.19-00.16.25:149][474]Running G:/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/VideoProject.uproject" -game -rocket -progress
+[2023.12.19-00.16.25:271][474]Using bundled DotNet SDK version: 6.0.302
+[2023.12.19-00.16.25:271][474]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/VideoProject/VideoProject.uproject" -game -rocket -progress
+[2023.12.19-00.16.25:978][474]Log file: C:\Users\l-0-l\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.12.19-00.16.26:382][474]
+[2023.12.19-00.16.26:382][474]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64, TVOS.
+[2023.12.19-00.16.26:382][474]See the log file for detailed information
+[2023.12.19-00.16.26:382][474]
+[2023.12.19-00.16.26:382][474]
+[2023.12.19-00.16.26:382][474]Generating VisualStudio project files:
+[2023.12.19-00.16.26:382][474]Discovering modules, targets and source code for project...
+[2023.12.19-00.16.27:695][474]Binding IntelliSense data...
+[2023.12.19-00.16.31:129][474]Binding IntelliSense data... 100%
+[2023.12.19-00.16.31:230][474]Creating common properties file...
+[2023.12.19-00.16.31:230][474]Creating common properties file... 0%
+[2023.12.19-00.16.31:231][474]Writing project files...
+[2023.12.19-00.16.35:371][474]Writing project files... 100%
+[2023.12.19-00.16.35:371][474]
+[2023.12.19-00.16.35:371][474]Generating QueryTargets data for editor...
+[2023.12.19-00.16.35:594][474]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-00.16.35:712][474]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.12.19-00.17.12:410][737]LogLiveCoding: Display:    Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Binaries\Win64\UnrealEditor-VideoProject.patch_0.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Binaries\Win64\UnrealEditor-VideoProject.patch_0.exp
+[2023.12.19-00.17.12:769][738]LogClass: UPackage /Script/VideoProject Reload.
+[2023.12.19-00.17.12:771][738]LogClass: Could not find existing class CuboGiratorio in package /Script/VideoProject for reload, assuming new or modified class
+[2023.12.19-00.17.13:074][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.19-00.17.13:467][739]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 2 classes unchanged
+[2023.12.19-00.17.13:467][739]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
