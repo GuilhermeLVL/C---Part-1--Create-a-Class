@@ -10,9 +10,9 @@ ACuboGiratorio::ACuboGiratorio()
 	PrimaryActorTick.bCanEverTick = true;
 
 
-	float VariavelFloat = 0;
-	int32 VariavelInt32 = 0;
-	bool bVariavelBool = false;
+	 VariavelFloat = 0;
+	 VariavelInt32 = 0;
+	 bVariavelBool = false;
 
 
 	CuboMesh = CreateDefaultSubobject<UStaticMeshComponent>("MeshDoCubo");
@@ -32,8 +32,8 @@ void ACuboGiratorio::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	CuboMesh->AddWorldRotation(FRotator(0.0, DeltaTime*30.0, 0.0));
-		CuboMesh->AddLocalRotation(FRotator(DeltaTime*15.0,0.0,0.0));
+	CuboMesh->AddWorldRotation(FRotator(0., DeltaTime * 30.0, 0.));
+		CuboMesh->AddLocalRotation(FRotator(DeltaTime * 15.0,0.,0.));
 
 		FuncaoExemplo();
 }

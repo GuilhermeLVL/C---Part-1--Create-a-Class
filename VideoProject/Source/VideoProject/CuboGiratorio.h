@@ -16,17 +16,24 @@ public:
 	ACuboGiratorio();
 
 	//Criando um cubo 
+	UPROPERTY(VisibleAnywhere,BlueprintReadOnly)
 	UStaticMeshComponent* CuboMesh;
 
 	//Criando tipos de variaveis
+	UPROPERTY(EditAnywhere,BlueprintReadWrite)
 	float VariavelFloat	;
+
+	UPROPERTY(VisibleAnywhere,BlueprintReadOnly)
 	int32 VariavelInt32 ;
+
+	UPROPERTY(VisibleAnywhere,BlueprintReadWrite)
 	bool bVariavelBool ;
 
 	
 
 	//Funcao boolean com parametros
-	bool FuncaoExemplo(int32 Parametro1=0,float Parametro2=0.0f );
+	UFUNCTION(BlueprintPure)
+	bool FuncaoExemplo(int32 Parametro1 = 0, float Parametro2 = 0.f );
 
 protected:
 	// Called when the game starts or when spawned

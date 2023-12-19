@@ -1678,3 +1678,38 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.19-00.26.03:004][971]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.065
 [2023.12.19-00.26.03:004][971]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
 [2023.12.19-00.50.15:313][323]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.105 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3810 files in 5077 folders with total size 112 MiB.
+[2023.12.19-01.07.58:024][507]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.08.00:315][514]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.19-01.08.00:315][514]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.19-01.08.17:623][565]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.08.19:359][571]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.19-01.08.19:359][571]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.19-01.09.10:319][723]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.09.12:098][729]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.19-01.09.12:098][729]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.19-01.09.29:073][779]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.09.34:460][796]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.19-01.09.34:460][796]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.19-01.11.02:135][ 58]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.11.03:214][ 62]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.19-01.11.03:214][ 62]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.19-01.15.47:993][915]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.15.51:524][926]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.19-01.15.51:524][926]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.12.19-01.16.15:200][996]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.16.18:247][  6]LogLiveCoding: Display:    Criando biblioteca C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Binaries\Win64\UnrealEditor-VideoProject.patch_1.lib e objeto C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\VideoProject\Binaries\Win64\UnrealEditor-VideoProject.patch_1.exp
+[2023.12.19-01.16.18:700][  7]LogClass: UPackage /Script/VideoProject Reload.
+[2023.12.19-01.16.18:700][  7]LogClass: UClass CuboGiratorio Reload.
+[2023.12.19-01.16.18:703][  7]LogClass: Could not find existing class CuboGiratorio in package /Script/VideoProject for reload, assuming new or modified class
+[2023.12.19-01.16.18:703][  7]LogClass: Function FuncaoExemplo is new or belongs to a modified class.
+[2023.12.19-01.16.18:724][  7]Re-instancing CuboGiratorio after reload.
+[2023.12.19-01.16.18:893][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.12.19-01.16.19:366][  8]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.12.19-01.16.19:366][  8]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.12.19-01.16.57:539][749]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.12.19-01.16.59:369][847]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.12.19-01.16.59:369][847]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2023.12.19-01.17.04:839][293]LogEditor: Attempting to add actor of class 'CuboGiratorio' to level at 660.00,1630.00,0.00
+[2023.12.19-01.17.04:839][293]LogActor: Warning: CuboGiratorio /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CuboGiratorio_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.12.19-01.17.06:451][439]LogEditor: Attempting to add actor of class 'CuboGiratorio' to level at 510.00,1970.00,0.00
+[2023.12.19-01.17.06:452][439]LogActor: Warning: CuboGiratorio /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CuboGiratorio_UAID_00E269643BCB1DC701_1514021408 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily

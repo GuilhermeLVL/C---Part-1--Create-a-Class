@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeVideoProject_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xF6413169,
+				0x67B16D95,
 				0xFE367B7C,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeVideoProject_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_VideoProject.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_VideoProject(Z_Construct_UPackage__Script_VideoProject, TEXT("/Script/VideoProject"), Z_Registration_Info_UPackage__Script_VideoProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF6413169, 0xFE367B7C));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_VideoProject(Z_Construct_UPackage__Script_VideoProject, TEXT("/Script/VideoProject"), Z_Registration_Info_UPackage__Script_VideoProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x67B16D95, 0xFE367B7C));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
