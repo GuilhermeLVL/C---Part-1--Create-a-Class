@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VideoProject",
+			"Path": "..\\Source\\VideoProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VideoProjectEditor",
+			"Path": "..\\Source\\VideoProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
