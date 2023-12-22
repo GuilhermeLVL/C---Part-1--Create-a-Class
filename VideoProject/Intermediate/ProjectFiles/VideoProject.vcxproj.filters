@@ -61,5 +61,17 @@
     <ClInclude Include="..\..\Source\VideoProject\VideoProjectGameMode.h">
       <Filter>Source\VideoProject</Filter>
     </ClInclude>
+    <Filter Include="Source\VideoProject\Core">
+      <UniqueIdentifier>{A6D433AF-518D-3A56-8A6C-B33DF541A093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\VideoProject\Core\Characters">
+      <UniqueIdentifier>{B5498D95-4191-3267-ACF1-85CEB47AE55E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VideoProject\Core\Characters\MCharacter.cpp">
+      <Filter>Source\VideoProject\Core\Characters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VideoProject\Core\Characters\MCharacter.h">
+      <Filter>Source\VideoProject\Core\Characters</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

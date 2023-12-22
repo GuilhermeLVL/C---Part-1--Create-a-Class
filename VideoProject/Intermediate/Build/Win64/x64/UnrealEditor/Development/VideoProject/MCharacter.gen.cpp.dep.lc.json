@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\intermediate\\build\\win64\\unrealeditor\\inc\\videoproject\\uht\\mcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\intermediate\\build\\win64\\x64\\videoprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videoproject\\definitions.videoproject.h",
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\source\\videoproject\\core\\characters\\mcharacter.h",
+            "g:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "g:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "g:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "g:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "g:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\videoproject\\intermediate\\build\\win64\\unrealeditor\\inc\\videoproject\\uht\\mcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
