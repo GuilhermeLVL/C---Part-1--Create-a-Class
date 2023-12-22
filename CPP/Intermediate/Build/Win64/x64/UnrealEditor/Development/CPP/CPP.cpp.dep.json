@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\cpp\\source\\cpp\\cpp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\cpp\\intermediate\\build\\win64\\x64\\cppeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpp\\definitions.cpp.h",
+            "c:\\users\\l-0-l\\documents\\github\\c---part-1--create-a-class\\cpp\\source\\cpp\\cpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

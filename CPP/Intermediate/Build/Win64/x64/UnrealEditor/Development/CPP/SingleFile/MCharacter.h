@@ -1,0 +1,1 @@
+#include "C:/Users/l-0-l/Documents/GitHub/C---Part-1--Create-a-Class/CPP/Source/CPP/Core/Characters/MCharacter.h"

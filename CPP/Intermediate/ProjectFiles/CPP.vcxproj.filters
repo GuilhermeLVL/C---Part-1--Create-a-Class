@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPP">
+      <UniqueIdentifier>{031B796E-59E1-3CD9-BCB1-BBDE3BBF9837}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP\CPP.Build.cs">
+      <Filter>Source\CPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPP\CPP.cpp">
+      <Filter>Source\CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP\CPP.h">
+      <Filter>Source\CPP</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPP\Core">
+      <UniqueIdentifier>{CA7E1D7E-5C4C-3653-B4AB-01232AAE9867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CPP\Core\Characters">
+      <UniqueIdentifier>{AED960E6-3BD5-3D56-B773-A9BE2717C5F8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPP\Core\Characters\MCharacter.cpp">
+      <Filter>Source\CPP\Core\Characters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP\Core\Characters\MCharacter.h">
+      <Filter>Source\CPP\Core\Characters</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\CPP\Intermediate\Build\Win64\x64\CPPEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPP\CPP.init.gen.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPP\MCharacter.gen.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPP\CPP.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPP\MCharacter.cpp.obj"
+"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPP\Default.rc2.res"
+/OUT:"C:\Users\l-0-l\Documents\GitHub\C---Part-1--Create-a-Class\CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\CPP\UnrealEditor-CPP.lib"
