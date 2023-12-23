@@ -21,6 +21,9 @@ public:
 	UPROPERTY(BlueprintReadWrite, EditAnywhere) FVector vectorTypeVariable = FVector(0,0,0);
 	UPROPERTY(BlueprintReadWrite, EditAnywhere) FRotator RoatatoTypeVariable = FRotator(0, 0, 0);
 	UPROPERTY(BlueprintReadWrite, EditAnywhere) FTransform transformTypeVariable = FTransform::Identity;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere) int a = 0;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere) int b = 0;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere) int c = 0;
 
 	
 

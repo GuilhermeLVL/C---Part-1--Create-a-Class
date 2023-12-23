@@ -15,6 +15,11 @@ AMCharacter::AMCharacter()
 void AMCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+
+	
+	c = a + b;
+
+	UE_LOG(LogTemp, Warning, TEXT("%d"), c);
 	
 }
 

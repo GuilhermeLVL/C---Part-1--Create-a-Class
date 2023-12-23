@@ -60,6 +60,18 @@ void EmptyLinkFunctionForGeneratedCodeMCharacter() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_transformTypeVariable_MetaData[];
 #endif
 		static const UECodeGen_Private::FStructPropertyParams NewProp_transformTypeVariable;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_a_MetaData[];
+#endif
+		static const UECodeGen_Private::FIntPropertyParams NewProp_a;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_b_MetaData[];
+#endif
+		static const UECodeGen_Private::FIntPropertyParams NewProp_b;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_c_MetaData[];
+#endif
+		static const UECodeGen_Private::FIntPropertyParams NewProp_c;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -129,6 +141,27 @@ void EmptyLinkFunctionForGeneratedCodeMCharacter() {}
 	};
 #endif
 	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_AMCharacter_Statics::NewProp_transformTypeVariable = { "transformTypeVariable", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMCharacter, transformTypeVariable), Z_Construct_UScriptStruct_FTransform, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMCharacter_Statics::NewProp_transformTypeVariable_MetaData), Z_Construct_UClass_AMCharacter_Statics::NewProp_transformTypeVariable_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMCharacter_Statics::NewProp_a_MetaData[] = {
+		{ "Category", "MCharacter" },
+		{ "ModuleRelativePath", "Core/Characters/MCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_AMCharacter_Statics::NewProp_a = { "a", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMCharacter, a), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMCharacter_Statics::NewProp_a_MetaData), Z_Construct_UClass_AMCharacter_Statics::NewProp_a_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMCharacter_Statics::NewProp_b_MetaData[] = {
+		{ "Category", "MCharacter" },
+		{ "ModuleRelativePath", "Core/Characters/MCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_AMCharacter_Statics::NewProp_b = { "b", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMCharacter, b), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMCharacter_Statics::NewProp_b_MetaData), Z_Construct_UClass_AMCharacter_Statics::NewProp_b_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMCharacter_Statics::NewProp_c_MetaData[] = {
+		{ "Category", "MCharacter" },
+		{ "ModuleRelativePath", "Core/Characters/MCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_AMCharacter_Statics::NewProp_c = { "c", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AMCharacter, c), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AMCharacter_Statics::NewProp_c_MetaData), Z_Construct_UClass_AMCharacter_Statics::NewProp_c_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMCharacter_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_intTypeVariable,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_floatTypeVariable,
@@ -137,6 +170,9 @@ void EmptyLinkFunctionForGeneratedCodeMCharacter() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_vectorTypeVariable,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_RoatatoTypeVariable,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_transformTypeVariable,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_a,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_b,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMCharacter_Statics::NewProp_c,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMCharacter>::IsAbstract,
@@ -176,9 +212,9 @@ void EmptyLinkFunctionForGeneratedCodeMCharacter() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_CPP_Source_CPP_Core_Characters_MCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AMCharacter, AMCharacter::StaticClass, TEXT("AMCharacter"), &Z_Registration_Info_UClass_AMCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMCharacter), 2998659715U) },
+		{ Z_Construct_UClass_AMCharacter, AMCharacter::StaticClass, TEXT("AMCharacter"), &Z_Registration_Info_UClass_AMCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMCharacter), 3804271352U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_CPP_Source_CPP_Core_Characters_MCharacter_h_3866298532(TEXT("/Script/CPP"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_CPP_Source_CPP_Core_Characters_MCharacter_h_219453081(TEXT("/Script/CPP"),
 		Z_CompiledInDeferFile_FID_CPP_Source_CPP_Core_Characters_MCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_CPP_Source_CPP_Core_Characters_MCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
